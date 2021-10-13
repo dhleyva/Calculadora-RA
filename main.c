@@ -45,3 +45,7 @@ int main(){
       case 6:
         res = float pow(n1, (1/n2));
         printf("\nLa  es: %.1f", res); 
+      break;
+    }
+  return 0;
+}
